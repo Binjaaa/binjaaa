@@ -3,7 +3,8 @@ layout: post
 title:  "Motivation"
 subtitle: "Answering all the 'whys'"
 date:   2019-01-01 10:08:00
-categories: [fsharp, aws, lambda]
+categories: [fsharp]
+tags: [fsharp, aws, lambda]
 ---
 
 <img src="https://media.giphy.com/media/UqUJhrD0om73q/giphy.gif"/>
