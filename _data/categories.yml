@@ -1,0 +1,8 @@
+- slug: fsharp
+  name: F#
+
+- slug: aws
+  name: AWS
+
+- slug: lambda
+  name: Lambda
