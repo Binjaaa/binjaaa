@@ -35,9 +35,10 @@ Motivations:
 
 - My memory is really short so will be definitely useful to create a stash of my achievements.
 
-- The team what I'm working in, just wanted something what is going to make us able to share our [*"professional mojo"*](http://austinpowers.wikia.com/wiki/Mojo). **Nick**, **Alex** it's your turn, haha!
+- The team what I'm working in, just wanted something what is going to make us able to share our [*"professional mojo"*](http://austinpowers.wikia.com/wiki/Mojo).
 
-- Given my mother tongue is not English, it gives me a good opportunity to deeper my vocabulary and fix my grammar where it's needed.
+- Given my mother tongue is not English, it gives me a good opportunity to widen my vocabulary and fix my grammar where it's needed.
 
+- Make Alex happy about something in the new year. He kept reminding me day by day about my TODO item on my small whiteboard. Thank you Sir!
 
 Can't wait to write my very first technical post, so keep calm, interesting functional stuffs are coming!
