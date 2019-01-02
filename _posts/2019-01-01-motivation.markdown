@@ -31,7 +31,7 @@ Let's finally talk about the main purpose of the post. Why and most importantly,
 I believe blogging is one of the best solutions to give some visibilty about my work, share my passion and share the feeling of figuring out some hard problem.
 
 Motivations:
-- My main priority is to share the experience, pain points, interesting parts of my daily work with my collegaues (I referred them as *others* above) who work in different teams on different problems with different languages. So, basically with every developers :)
+- My main priority is to share the experience, pain points, interesting parts of my daily work with my collegaues (I referred them as *others* above) who work in different teams on different problems with different languages. So, basically with every developer :)
 
 - My memory is really short so will be definitely useful to create a stash of my achievements.
 
